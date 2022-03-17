@@ -62,6 +62,8 @@ The following API endpoints must be created and hooked up to the front end.
 * Write code as if you are writing code in a team for a production app. Treat it as if you are releasing it to the public.
 * Finally, we take pride in the code we write so ensure that your code is well encapsulated and follows a consistent convention. 
 
+***
+
 ### Questions
 
 * How long did you spend writing the application?
