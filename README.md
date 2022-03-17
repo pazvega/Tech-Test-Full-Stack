@@ -49,11 +49,6 @@ The following API endpoints must be created and hooked up to the front end.
 
 ***
 
-### How to complete this challenge
-* Fork this repo on GitHub
-* Complete the design and code as defined to the best of your abilities
-* Complete your work in your own github repo and send the results to us at hello@aitaca.io
-
 ### What are we looking for? What does this prove?
 * Assumptions you make given limited requirements
 * Technology and design choices
@@ -69,3 +64,9 @@ The following API endpoints must be created and hooked up to the front end.
 * How long did you spend writing the application?
 * What part of the application are you most proud of?
 * If you had more time what would you improve in the application?
+
+
+### How to complete this challenge
+* Fork this repo on GitHub
+* Complete the design and code as defined to the best of your abilities
+* Complete your work in your own github repo and send the results and the Questions to us at hello@aitaca.io
