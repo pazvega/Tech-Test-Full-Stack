@@ -18,14 +18,18 @@ must be saved for each account.
 * First Name
 * Last Name
 * Email
-* Geneder
+* Gender
 * Date of Birth
 * Created Date
 * Last Updated Date
 
 ### Front End
 
-The front end must allow the administrator to list accounts and perform all CRUD operations.
+The front end must allow the administrator to list accounts and perform all CRUD operations. The application must have a menu to be able to navigate between pages.
+
+#### Extra:
+1. Search engine where you can search for accounts. When performing a search, it will show a list with the elements that have been found on the same page. These results can be filtered and sorted.
+2. Details page: Clicking on an element (or using a control for that purpose), it will open a file with the account's details: First Name, Last Name, Email, Gender.
 
 ### Back End
 
@@ -41,9 +45,7 @@ The following API endpoints must be created and hooked up to the front end.
 
 ### Technical Requirements
 
-* Visual Studio 2019 or higher.
-* The backend must be .Net Core with C#.
-* EF Core Code First must be used for accessing the data model.
+* The backend must be using Flask, FastAPI.
 * Front end must run using a JavaScript framework.
 * The solution must build and run with one click.
 
