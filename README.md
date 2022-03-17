@@ -49,6 +49,19 @@ The following API endpoints must be created and hooked up to the front end.
 
 ***
 
+### How to complete this challenge
+* Fork this repo on GitHub
+* Complete the design and code as defined to the best of your abilities
+* Complete your work in your own github repo and send the results to us at hello@aitaca.io
+
+### What are we looking for? What does this prove?
+* Assumptions you make given limited requirements
+* Technology and design choices
+* Identify areas of your strengths
+* This is not a pass or fail test, this will serve as a common ground that we can deep dive together into specific issues
+* Write code as if you are writing code in a team for a production app. Treat it as if you are releasing it to the public.
+* Finally, we take pride in the code we write so ensure that your code is well encapsulated and follows a consistent convention. 
+
 ### Questions
 
 * How long did you spend writing the application?
