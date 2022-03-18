@@ -71,4 +71,6 @@ The following API endpoints must be created and hooked up to the front end.
 ### How to complete this challenge
 * Fork this repo on GitHub
 * Complete the design and code as defined to the best of your abilities
+* Complete your work in your own github repo (public), named aitaca-full-stack
+* The branch should be named "aitaca"
 * Complete your work in your own github repo and send the results and the Questions to us at people@aitaca.io
